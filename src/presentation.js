@@ -26,7 +26,7 @@ const theme = createTheme(
     primary: 'white',
     secondary: '#2c68ad',
     tertiary: '#fcce0e',
-    quartenary: '#5cb85c',
+    quarternary: '#2c68ad',
   },
   {
     primary: 'Montserrat',
